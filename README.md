@@ -163,7 +163,7 @@ post http://127.0.0.1:8000/continent/
 | name       | string  |
 | area       | integer |
 | population | integer |
-| density    | string  |
+| density    | integer |
 
 #### Response
 
@@ -194,7 +194,7 @@ put http://127.0.0.1:8000/continent/{continentId}
 | name       | string  |
 | area       | integer |
 | population | integer |
-| density    | string  |
+| density    | integer |
 
 #### Response
 
