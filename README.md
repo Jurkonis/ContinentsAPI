@@ -105,7 +105,7 @@ Get http://127.0.0.1:8000/continent/{continentId}
             "population": 336050,
             "density": "120",
             "created_at": "2021-03-10 20:58:03"
-        },...
+        }
     ]
 }
 ```
@@ -145,7 +145,7 @@ Get http://127.0.0.1:8000/continent/{continentId}/country
             "phone_code": 802,
             "continent_id": 4,
             "created_at": "2021-03-10 20:58:03"
-        },...
+        }
     ]
 }
 ```
@@ -256,7 +256,7 @@ Get http://127.0.0.1:8000/continent/{continentId}/country/{countryId}
             "phone_code": 986,
             "continent_id": 5,
             "created_at": "2021-03-10 20:58:03"
-        },...
+        }
     ]
 }
 ```
